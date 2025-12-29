@@ -1,5 +1,5 @@
-![Profile views counter](https://komarev.com/ghpvc/?username=ubaidkhan7653&&style=flat-square)&nbsp;
-[![GitHub avinash201199](https://img.shields.io/github/followers/UBAID7653?label=follow&style=social)](https://github.com/UBAID7653)&nbsp;
+![Profile views counter](https://komarev.com/ghpvc/?username=ubaidrehman0426&&style=flat-square)&nbsp;
+[![GitHub avinash201199](https://img.shields.io/github/followers/ubaidrehman0426?label=follow&style=social)](https://github.com/UBAID7653)&nbsp;
 
 <!-- Intro  -->
 <h2 align="center">
