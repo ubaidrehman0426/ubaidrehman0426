@@ -1,5 +1,5 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=ubaidrehman0426&&style=flat-square)&nbsp;
-[![GitHub avinash201199](https://img.shields.io/github/followers/ubaidrehman0426?label=follow&style=social)](https://github.com/UBAID7653)&nbsp;
+[![GitHub avinash201199](https://img.shields.io/github/followers/ubaidrehman0426?label=follow&style=social)](https://github.com/ubaidrehman0426)&nbsp;
 
 <!-- Intro  -->
 <h2 align="center">
@@ -39,21 +39,12 @@
 <br />
 <p>
 <!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://wakatime.com/@UBAID7653#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=UBAID7653&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-    <a href="https://wakatime.com/@UBAID7653#gh-light-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=UBAID7653&theme=github-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
-
 
 <p align="center">
-<a href="https://github.com/pulls?q=is%3Apr+author%3UBAID7653+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UBAID7653&theme=github_dark&utcOffset=5"  width="31%" alt="@UBAID7653 productive-time"/></a>
-<a href="https://github.com/pulls?q=is%3Apr+author%3UBAID7653+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UBAID7653o&theme=github&utcOffset=4"  width="31%" alt="UBAID7653 productive-time"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3UBAID7653o+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UBAID7653&theme=github_dark&hide_border=true"  width="64%" alt="@UBAID7653 profile-details"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3UBAID7653o+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UBAID7653&theme=github&hide_border=true"  width="64%" alt="@UBAID7653 profile-details"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%ubaidrehman0426o+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ubaidrehman0426&theme=github_dark&utcOffset=5"  width="31%" alt="@ubaidrehman0426 productive-time"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%ubaidrehman0426o+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ubaidrehman0426&theme=github&utcOffset=4"  width="31%" alt="ubaidrehman0426 productive-time"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3ubaidrehman0426o+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ubaidrehman0426&theme=github_dark&hide_border=true"  width="64%" alt="@UBAID7653 profile-details"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%ubaidrehman0426o+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ubaidrehman0426&theme=github&hide_border=true"  width="64%" alt="@ubaidrehman0426 profile-details"/></a>
 </p>
 
 
